@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CreditCardApplication<credit-card>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "fiap.spring.jk.creditcard.CreditCardApplication",
+            "projectName": "credit-card",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
